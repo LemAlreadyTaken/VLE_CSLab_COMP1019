@@ -1,0 +1,17 @@
+// Cach 2 (hoi-dap): dung try...catch voi Parse
+try
+{
+    Console.Write("Nhap tham so a: ");
+    double a = double.Parse(Console.ReadLine());
+    Console.Write("Nhap tham so b: ");
+    double b = double.Parse(Console.ReadLine());
+    // ... giai phuong trinh nhu tren ...
+}
+catch (FormatException)
+{
+    Console.WriteLine("Ban phai nhap so, khong phai chu.");
+}
+catch (OverflowException)
+{
+    Console.WriteLine("So qua lon hoac qua nho.");
+}
