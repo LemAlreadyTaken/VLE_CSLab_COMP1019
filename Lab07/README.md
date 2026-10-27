@@ -15,12 +15,3 @@ Hai ứng dụng WinForms dùng LINQ to SQL (mô hình hai lớp) kết nối SQ
 - QLBanHang: chọn hàng hóa và số lượng (chưa có thì thêm, có rồi thì cập nhật số lượng), tính tổng tiền, lập hóa đơn lưu vào HoaDon và CTHoaDon trong một transaction.
 - Report hóa đơn: tham số tên khách hàng, bảng hàng hóa đã mua và dòng tổng tiền.
 
-## Hình ảnh minh họa chương trình
-### 1. Quản lý học sinh (LINQ to SQL)
-![Quản lý học sinh](images/QuanLyHocSinh.png)
-
-### 2. Quản lý bán hàng
-![Quản lý bán hàng](images/QuanLyBanHang.png)
-
-### 3. Hóa đơn bán hàng (Report)
-![Hóa đơn](images/HoaDon.png)

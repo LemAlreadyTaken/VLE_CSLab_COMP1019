@@ -14,12 +14,3 @@
 - Quản lý Lớp: hiển thị bằng ListView (đổi kiểu hiển thị), thêm, sửa, xóa bằng câu lệnh có tham số.
 - Bài tập về nhà - Hồ sơ Học sinh: hiển thị, thêm, sửa, xóa học sinh theo mô hình Connected.
 
-## Hình ảnh minh họa chương trình
-### 1. Màn hình đăng nhập
-![Đăng nhập](images/DangNhap.png)
-
-### 2. Quản lý Lớp
-![Quản lý lớp](images/QuanLyLop.png)
-
-### 3. Hồ sơ Học sinh
-![Hồ sơ học sinh](images/HoSoHocSinh.png)
